@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/arete/static/css/main.0e4c2044.css",
-    "main.js": "/arete/static/js/main.220c683c.js",
-    "static/js/543.a9c31594.chunk.js": "/arete/static/js/543.a9c31594.chunk.js",
+    "main.css": "/arete/static/css/main.dce2c642.css",
+    "main.js": "/arete/static/js/main.77ea85ce.js",
+    "static/js/630.0ba12f08.chunk.js": "/arete/static/js/630.0ba12f08.chunk.js",
     "index.html": "/arete/index.html",
-    "main.0e4c2044.css.map": "/arete/static/css/main.0e4c2044.css.map",
-    "main.220c683c.js.map": "/arete/static/js/main.220c683c.js.map",
-    "543.a9c31594.chunk.js.map": "/arete/static/js/543.a9c31594.chunk.js.map"
+    "main.dce2c642.css.map": "/arete/static/css/main.dce2c642.css.map",
+    "main.77ea85ce.js.map": "/arete/static/js/main.77ea85ce.js.map",
+    "630.0ba12f08.chunk.js.map": "/arete/static/js/630.0ba12f08.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e4c2044.css",
-    "static/js/main.220c683c.js"
+    "static/css/main.dce2c642.css",
+    "static/js/main.77ea85ce.js"
   ]
 }
