@@ -1,0 +1,11 @@
+<!-- save as public/logo-wordmark.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 120" role="img" aria-label="Areté wordmark">
+  <style>
+    .g { fill:#D4AF37; }
+    .t { fill:#ffffff; font-family: 'Cinzel', serif; font-size:48px; font-weight:700; }
+    .s { fill:#9aa4b2; font-family: 'Inter', sans-serif; font-size:18px; }
+  </style>
+  <text x="12" y="56" class="t">ἀρετή</text>
+  <text x="220" y="62" class="t" style="font-family: 'Cinzel', serif; font-size:40px">Areté</text>
+  <text x="220" y="92" class="s">Excellence • Virtue • Mastery</text>
+</svg>

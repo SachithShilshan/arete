@@ -1,0 +1,18 @@
+<!-- save as public/logo-emblem.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Areté emblem">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#D4AF37"></stop>
+      <stop offset="1" stop-color="#F6E27A"></stop>
+    </linearGradient>
+  </defs>
+  <!-- shield -->
+  <path d="M100 12 L148 36 L148 96 C148 140 100 178 100 178 C100 178 52 140 52 96 L52 36 Z" fill="#0B1220"></path>
+  <!-- laurel (simple) -->
+  <g transform="translate(0,0)" fill="none" stroke="url(#g)" stroke-width="4" stroke-linecap="round">
+    <path d="M40 70 C60 50, 70 40, 92 52"></path>
+    <path d="M160 70 C140 50, 130 40, 108 52"></path>
+  </g>
+  <!-- triangle (unity) -->
+  <polygon points="100,50 120,95 80,95" fill="url(#g)"></polygon>
+</svg>
